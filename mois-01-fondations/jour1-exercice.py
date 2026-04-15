@@ -1,4 +1,4 @@
-#Voici le première exercice d'apprentissage en pyton
+#Voici le première exercice d'apprentissage en python
 nom_machine = "Shadow-PC"
 ip = "172.117.110.5"
 port_ssh = 444
